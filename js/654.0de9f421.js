@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadvokatlar_v2"]=self["webpackChunkadvokatlar_v2"]||[]).push([[654],{654:function(u,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=function(){var u=this,n=u._self._c;return n("router-view")},e=[],l={},a=l,s=r(1001),c=(0,s.Z)(a,t,e,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=654.0de9f421.js.map
